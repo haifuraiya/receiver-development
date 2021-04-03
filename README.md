@@ -8,4 +8,4 @@ This stores the documentation of the Phase4 receiver development.
 
 ## Documentation
 
-Full documentation can be found here: [phase4space.github.io/receiver-development](phase4space.github.io/receiver-development).
+Full documentation can be found here: [phase4space.github.io/receiver-development](https://phase4space.github.io/receiver-development).
