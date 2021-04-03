@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Phase4 Receiver Development Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This stores the documentation of the Phase4 receiver development.
 
-## Commands
+Phase4 is building advanced Software Defined Radio (SDR) projects to allow the amateur radio community to communicate with satellites and spacecraft using modern digital communication techniques.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Architecture
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Receiver Architecture](receiver_architecture.svg)
