@@ -9,3 +9,36 @@ This stores the documentation of the Phase4 receiver development.
 ## Documentation
 
 Full documentation can be found here: [phase4space.github.io/receiver-development](https://phase4space.github.io/receiver-development).
+
+## TODO
+
+**Timing Synchronisation**
+- [x] topology selection - __polyphase combined matched filtering__
+- [ ] ideal Python model
+- [ ] stability analysis
+- [ ] performance measurement
+
+**Automatic Gain Control**
+- [ ] topology selection
+- [ ] ideal Python model
+- [ ] performance measurement
+
+**Coarse Frequency Sync**
+- [ ] topology selection
+- [ ] ideal Python model
+- [ ] performance measurement
+
+**Phase Sync**
+- [ ] topology selection
+- [ ] ideal Python model
+- [ ] performance measurement
+
+**LLR Demod**
+- [ ] topology selection
+- [ ] ideal Python model
+- [ ] performance measurement
+
+**SNR Estimation**
+- [ ] topology selection
+- [ ] ideal Python model
+- [ ] performance measurement
