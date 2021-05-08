@@ -14,9 +14,9 @@ Full documentation can be found here: [phase4space.github.io/receiver-developmen
 
 **Timing Synchronisation**
 - [x] topology selection - __polyphase combined matched filtering__
-- [ ] ideal Python model
-- [ ] stability analysis
-- [ ] performance measurement
+- [x] ideal Python model
+- [x] stability analysis
+- [x] performance measurement
 
 **Automatic Gain Control**
 - [ ] topology selection
